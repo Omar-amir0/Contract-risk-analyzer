@@ -10,12 +10,7 @@ An AI-powered system that analyzes contracts, identifies potential risks, and re
 - Git
 - VS Code (recommended)
 
-### 2. Clone the Repository
-
-```bash
-git clone YOUR_REPOSITORY_URL
-cd contractRisk
-```
+### 2. DOWNLOAD PROJECT
 
 ### 3. Create a Virtual Environment
 
